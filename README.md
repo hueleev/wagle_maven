@@ -38,6 +38,21 @@
   - [포트폴리오](https://github.com/hueleev/wagle_maven/files/2133026/WAGLE.pdf)
   - 로컬에서 동작하는 프로그램이므로 Oracle 설치, 테이블 생성 후 실행하여야 함.
   
+## 프로젝트 시연
+<img width="1138" alt="2018-06-25 9 14 37" src="https://user-images.githubusercontent.com/33610328/41862382-ac0bf8d6-78de-11e8-9f56-56542904e5bb.png">
+<img width="1136" alt="2018-06-25 9 14 44" src="https://user-images.githubusercontent.com/33610328/41862389-b16b211c-78de-11e8-85b2-fcbd9bcc2e01.png">
+<img width="1137" alt="2018-06-25 9 14 51" src="https://user-images.githubusercontent.com/33610328/41862392-b35d9e14-78de-11e8-85cd-4e462625c377.png">
+<img width="1139" alt="2018-06-25 9 14 58" src="https://user-images.githubusercontent.com/33610328/41862396-b4b2a480-78de-11e8-9aa3-42b0f55374f1.png">
+<img width="1136" alt="2018-06-25 9 15 05" src="https://user-images.githubusercontent.com/33610328/41862398-b60acd6c-78de-11e8-9f8f-e999a05fe422.png">
+<img width="1133" alt="2018-06-25 9 15 20" src="https://user-images.githubusercontent.com/33610328/41862400-b7779270-78de-11e8-80b5-329d7f75d4a2.png">
+<img width="1133" alt="2018-06-25 9 15 28" src="https://user-images.githubusercontent.com/33610328/41862402-b9260002-78de-11e8-9b3e-3df1909e7e2e.png">
+<img width="1133" alt="2018-06-25 9 15 28" src="https://user-images.githubusercontent.com/33610328/41862402-b9260002-78de-11e8-9b3e-3df1909e7e2e.png">
+<img width="1129" alt="2018-06-25 9 15 34" src="https://user-images.githubusercontent.com/33610328/41862404-bab7d788-78de-11e8-92c0-9f7238bb2106.png">
+<img width="1158" alt="2018-06-25 9 20 33" src="https://user-images.githubusercontent.com/33610328/41862411-bf0b1688-78de-11e8-8522-9dbdb44ed179.png">
+
+![kakaotalk_photo_2018-04-30-17-35-39](https://user-images.githubusercontent.com/33610328/41862425-cda47414-78de-11e8-9b5b-3e5148e9272e.png)
+![kakaotalk_photo_2018-04-30-17-35-48](https://user-images.githubusercontent.com/33610328/41862432-d3504a96-78de-11e8-8f65-ef19f27d5585.png)
+
 ## web.xml
 ~~~java
 <?xml version="1.0" encoding="EUC-KR"?>
